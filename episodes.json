@@ -1,0 +1,17 @@
+[
+  {
+    "guid": "tech-ai-digest-2026-02-26-8782328b",
+    "title": "Tech AI Digest | Test: Deployment Pipeline",
+    "description": "Episodio di test per verificare il distribution agent. Upload su Internet Archive e feed RSS su GitHub Pages.",
+    "url": "https://archive.org/download/tech-ai-digest-20260226-1b41fc/test_dual.mp3",
+    "date": "2026-02-26",
+    "pub_date": "Wed, 25 Feb 2026 23:00:00 -0000",
+    "duration": "00:00:22",
+    "file_size": 180158,
+    "tags": [
+      "podcast tech italiano",
+      "intelligenza artificiale",
+      "test"
+    ]
+  }
+]
