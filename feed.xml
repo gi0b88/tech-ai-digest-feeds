@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech AI Digest</title>
+    <description>Rassegna stampa tech settimanale generata con AI...</description>
+    <language>it</language>
+    <link>https://gi0b88.github.io/tech-ai-digest-feeds/feed.xml</link>
+    <atom:link href="https://gi0b88.github.io/tech-ai-digest-feeds/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Tech AI Digest</itunes:author>
+    <itunes:summary>Rassegna stampa tech settimanale generata con AI...</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:language>it</itunes:language>
+    <itunes:owner>
+      <itunes:name>Tech AI Digest</itunes:name>
+      <itunes:email>horseballitalia@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <item>
+      <title>Tech AI Digest | Test: Deployment Pipeline</title>
+      <description>Episodio di test per verificare il distribution agent. Upload su Internet Archive e feed RSS su GitHub Pages.</description>
+      <itunes:summary>Episodio di test per verificare il distribution agent. Upload su Internet Archive e feed RSS su GitHub Pages.</itunes:summary>
+      <pubDate>Wed, 25 Feb 2026 23:00:00 -0000</pubDate>
+      <guid isPermaLink="false">tech-ai-digest-2026-02-26-8782328b</guid>
+      <itunes:duration>00:00:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://archive.org/download/tech-ai-digest-20260226-1b41fc/test_dual.mp3" type="audio/mpeg" length="180158" />
+      <itunes:keywords>podcast tech italiano</itunes:keywords>
+      <itunes:keywords>intelligenza artificiale</itunes:keywords>
+      <itunes:keywords>test</itunes:keywords>
+    </item>
+  </channel>
+</rss>
