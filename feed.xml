@@ -18,20 +18,6 @@
       <itunes:category text="Tech News" />
     </itunes:category>
     <item>
-      <title>Tech AI Digest | Test: Deployment Pipeline</title>
-      <description>Episodio di test per verificare il distribution agent. Upload su Internet Archive e feed RSS su GitHub Pages.</description>
-      <itunes:summary>Episodio di test per verificare il distribution agent. Upload su Internet Archive e feed RSS su GitHub Pages.</itunes:summary>
-      <pubDate>Wed, 25 Feb 2026 23:00:00 -0000</pubDate>
-      <guid isPermaLink="false">tech-ai-digest-2026-02-26-8782328b</guid>
-      <itunes:duration>00:00:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Tech AI Digest</itunes:author>
-      <enclosure url="https://archive.org/download/tech-ai-digest-20260226-1b41fc/test_dual.mp3" type="audio/mpeg" length="180158" />
-      <itunes:keywords>podcast tech italiano</itunes:keywords>
-      <itunes:keywords>intelligenza artificiale</itunes:keywords>
-      <itunes:keywords>test</itunes:keywords>
-    </item>
-    <item>
       <title>Tech AI Digest #002 | India AI Power, Data Center da 110 Miliardi e GPT-5.3 Codex Spark | 19 Feb 2026</title>
       <description>Rassegna stampa tech settimanale generata con AI...</description>
       <itunes:summary>Rassegna stampa tech settimanale generata con AI...</itunes:summary>
