@@ -36,33 +36,5 @@
       <itunes:keywords>DataCenter</itunes:keywords>
       <itunes:keywords>AIIndustry</itunes:keywords>
     </item>
-    <item>
-      <title>Tech AI Digest #001 | Robot umanoidi, AI cinese e 16 agenti Claude creano un compilatore | 12 Feb 2026</title>
-      <description>Rassegna stampa tech settimanale generata con AI...</description>
-      <itunes:summary>Rassegna stampa tech settimanale generata con AI...</itunes:summary>
-      <pubDate>Wed, 11 Feb 2026 23:00:00 -0000</pubDate>
-      <guid isPermaLink="false">tech-ai-digest-2026-02-12-3b418155</guid>
-      <itunes:duration>00:05:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Tech AI Digest</itunes:author>
-      <enclosure url="https://archive.org/download/tech-ai-digest-20260212-fd41aa/press_review_20260212_111651.mp3" type="audio/mpeg" length="2797000" />
-    </item>
-    <item>
-      <title>Tech AI Digest #001 | Robot umanoidi, AI cinese e 16 agenti Claude creano un compilatore | 12 Feb 2026</title>
-      <description>Rassegna stampa tech settimanale generata con AI...</description>
-      <itunes:summary>Rassegna stampa tech settimanale generata con AI...</itunes:summary>
-      <pubDate>Wed, 11 Feb 2026 23:00:00 -0000</pubDate>
-      <guid isPermaLink="false">tech-ai-digest-2026-02-12-3b418155</guid>
-      <itunes:duration>00:05:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:author>Tech AI Digest</itunes:author>
-      <itunes:image href="https://archive.org/download/tech-ai-digest-20260212-ep001/copertina_1.jpg" />
-      <enclosure url="https://archive.org/download/tech-ai-digest-20260212-ep001/press_review_20260212_111651.mp3" type="audio/mpeg" length="2797000" />
-      <itunes:keywords>AI</itunes:keywords>
-      <itunes:keywords>robotica</itunes:keywords>
-      <itunes:keywords>intelligenza artificiale</itunes:keywords>
-      <itunes:keywords>Claude</itunes:keywords>
-      <itunes:keywords>robot umanoidi</itunes:keywords>
-    </item>
   </channel>
 </rss>
