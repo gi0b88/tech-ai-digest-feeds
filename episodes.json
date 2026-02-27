@@ -43,5 +43,25 @@
       "Claude",
       "robot umanoidi"
     ]
+  },
+  {
+    "guid": "tech-ai-digest-2026-02-19-b7c1dff3",
+    "title": "Tech AI Digest #002 | India AI Power, Data Center da 110 Miliardi e GPT-5.3 Codex Spark | 19 Feb 2026",
+    "description": "Rassegna stampa tech settimanale generata con AI...",
+    "url": "https://archive.org/download/tech-ai-digest-20260219-911521/press_review_20260219_133837.mp3",
+    "cover_url": "https://archive.org/download/tech-ai-digest-20260219-911521/copertina_2.png",
+    "date": "2026-02-19",
+    "pub_date": "Wed, 18 Feb 2026 23:00:00 -0000",
+    "duration": "00:12:14",
+    "file_size": 17627681,
+    "tags": [
+      "TechAIDigest",
+      "ArtificialIntelligence",
+      "AIInfrastructure",
+      "OpenAI",
+      "IndiaTech",
+      "DataCenter",
+      "AIIndustry"
+    ]
   }
 ]
