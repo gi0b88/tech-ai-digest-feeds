@@ -18,5 +18,23 @@
       "DataCenter",
       "AIIndustry"
     ]
+  },
+  {
+    "guid": "tech-ai-digest-2026-02-12-3b418155",
+    "title": "Tech AI Digest #001 | Robot umanoidi, AI cinese e 16 agenti Claude creano un compilatore | 12 Feb 2026",
+    "description": "Rassegna stampa tech settimanale generata con AI...",
+    "url": "https://archive.org/download/tech-ai-digest-20260212-ep001/press_review_20260212_111651.mp3",
+    "cover_url": "https://archive.org/download/tech-ai-digest-20260212-ep001/copertina_1.jpg",
+    "date": "2026-02-12",
+    "pub_date": "Wed, 11 Feb 2026 23:00:00 -0000",
+    "duration": "00:05:49",
+    "file_size": 2797000,
+    "tags": [
+      "AI",
+      "robotica",
+      "intelligenza artificiale",
+      "Claude",
+      "robot umanoidi"
+    ]
   }
 ]
