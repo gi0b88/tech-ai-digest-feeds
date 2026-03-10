@@ -54,5 +54,23 @@
       "veicoli autonomi",
       "tech news italiano"
     ]
+  },
+  {
+    "guid": "tech-ai-digest-2026-03-10-f3077b01",
+    "title": "Tech AI Digest #004 | 26 Feb: OpenAI+ChatGPT, GPT-5.4",
+    "description": "Yann LeCun annuncia sviluppi su Advanced Machine Intelligence. OpenAI lancia GPT-5.4, Adobe presenta nuove tecnologie creative. Ascolta ora.",
+    "url": "https://archive.org/download/tech-ai-digest-20260310-731de2/press_review_20260310_215854.mp3",
+    "cover_url": "https://archive.org/download/tech-ai-digest-20260310-731de2/cover_20260310_215854.jpg",
+    "date": "2026-03-10",
+    "pub_date": "Mon, 09 Mar 2026 23:00:00 -0000",
+    "duration": "00:18:54",
+    "file_size": 27235518,
+    "tags": [
+      "OpenAI",
+      "intelligenza artificiale avanzata",
+      "podcast intelligenza artificiale",
+      "sviluppo modelli AI",
+      "tech news italiano"
+    ]
   }
 ]
