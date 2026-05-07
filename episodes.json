@@ -90,5 +90,23 @@
       "veicoli autonomi",
       "tech news italiano"
     ]
+  },
+  {
+    "guid": "tech-ai-digest-2026-05-07-638afc47",
+    "title": "Tech AI Digest #007 | 7 Mag: ESS+Sodio+OpenAI",
+    "description": "ESS adotta batterie al sodio per ridurre costi. Barry Diller sostiene Sam Altman, CEO di OpenAI. Intelligenza artificiale generale: responsabilità e controllo. Ascolta ora.",
+    "url": "https://archive.org/download/tech-ai-digest-20260507-387cf6/press_review_20260507_100918.mp3",
+    "cover_url": "https://archive.org/download/tech-ai-digest-20260507-387cf6/cover_20260507_100918.jpg",
+    "date": "2026-05-07",
+    "pub_date": "Wed, 06 May 2026 22:00:00 -0000",
+    "duration": "00:20:30",
+    "file_size": 24605325,
+    "tags": [
+      "OpenAI",
+      "batterie al sodio",
+      "podcast intelligenza artificiale",
+      "intelligenza artificiale generale",
+      "tech news italiano"
+    ]
   }
 ]
